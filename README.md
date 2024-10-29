@@ -21,11 +21,11 @@
 ### 博客文章
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Linux命令简单学习](https://blog.phlin.top/2024/10/29/Linux-command-study/)
 - [2023-2024个人小结](https://blog.phlin.top/2024/10/18/2023-2024/)
 - [微服务框架理解](https://blog.phlin.top/2024/10/03/microservices/)
 - [gRPC-Go框架学习](https://blog.phlin.top/2024/10/02/grpc/)
 - [GitHub Actions实现自动部署](https://blog.phlin.top/2024/10/01/github-actions/)
-- [计网——概述](https://blog.phlin.top/2024/09/20/Internet-overview/)
 <!-- BLOG-POST-LIST:END -->
 
 
