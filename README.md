@@ -4,7 +4,8 @@
 
 
 
-![Metrics](/github-metrics.svg)
+![Status](https://github-readme-stats.vercel.app/api?username=Penryn&show_icons=true&include_all_commits=true&hide_border=true)
+
 
 ### 提交记录
 <picture>
