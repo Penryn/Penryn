@@ -22,11 +22,11 @@
 ### 博客文章
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [炎魂后端面经](https://blog.phlin.cn/2025/04/15/yanhun-interview/)
+- [炎魂后端二面面经](https://blog.phlin.cn/2025/04/17/yanhun-interview-2/)
+- [炎魂后端一面面经](https://blog.phlin.cn/2025/04/15/yanhun-interview-1/)
 - [eino学习小记&lpar;二&rpar;](https://blog.phlin.cn/2025/03/22/eino-llm-2/)
 - [eino学习小记&lpar;一&rpar;](https://blog.phlin.cn/2025/03/19/eino-llm-1/)
 - [一次mysql差点爆了的事故](https://blog.phlin.cn/2024/12/11/mysql-cpu-trouble/)
-- [Linux命令简单学习](https://blog.phlin.cn/2024/10/29/Linux-command-study/)
 <!-- BLOG-POST-LIST:END -->
 
 
