@@ -22,9 +22,33 @@
 
 **主要技术栈**
 
-- 语言与框架：Go、Python、Gin、FastAPI
-- 数据与中间件：MySQL、Redis、Kafka、Elasticsearch
-- 工程与运维：Docker、Linux、GitHub Actions、Prometheus/Grafana
+语言与框架
+
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python" />
+  <img src="https://img.shields.io/badge/Gin-00ADD8?logo=go&logoColor=white&style=flat" alt="Gin" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat" alt="FastAPI" />
+</p>
+
+数据与中间件
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat" alt="Redis" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white&style=flat" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=flat" alt="Elasticsearch" />
+</p>
+
+工程与运维
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat" alt="Linux" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=flat" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=flat" alt="Grafana" />
+</p>
 
 
 **数据看板**
@@ -68,4 +92,3 @@
   <br/>
   <img alt="Visitor Count" src="https://komarev.com/ghpvc/?username=Penryn&label=Visitor%20Count&color=0e75b6&style=flat" />
 </div>
-
