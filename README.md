@@ -1,8 +1,8 @@
 <div align="center">
 
-  ## Hi there 👋
+  ## 欢迎来到我的主页 👋
 
-  你好，我是望舒，后端学习萌新
+  你好，我是望舒，一个后端学习者
 
   <img alt="typing intro" src="https://readme-typing-svg.demolab.com?duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=420&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5;Go+%2F+Python+%2F+MySQL+%2F+LLM+%E5%BA%94%E7%94%A8" />
 
@@ -11,7 +11,9 @@
   <a href="https://github.com/Penryn">GitHub</a>
 
   <br/>
-  <img alt="Visitor Count" src="https://komarev.com/ghpvc/?username=Penryn&label=%E8%AE%BF%E5%AE%A2%E6%95%B0&color=0e75b6&style=flat" />
+  <a href="https://github.com/Penryn">
+    <img alt="访客数" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPenryn&title=%E8%AE%BF%E5%AE%A2%E6%95%B0&icon=github.svg&icon_color=%23FFFFFF&count_bg=%230e75b6&title_bg=%23555555&edge_flat=true" />
+  </a>
 
 </div>
 
