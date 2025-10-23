@@ -10,6 +10,9 @@
   <a href="https://blog.phlin.cn">博客</a> ·
   <a href="https://github.com/Penryn">GitHub</a>
 
+  <br/>
+  <img alt="Visitor Count" src="https://komarev.com/ghpvc/?username=Penryn&label=%E8%AE%BF%E5%AE%A2%E6%95%B0&color=0e75b6&style=flat" />
+
 </div>
 
 
@@ -22,27 +25,24 @@
 
 **主要技术栈**
 
-语言与框架
-
-<p>
+<div align="center"><b>语言与框架</b></div>
+<p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat" alt="Go" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python" />
   <img src="https://img.shields.io/badge/Gin-00ADD8?logo=go&logoColor=white&style=flat" alt="Gin" />
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat" alt="FastAPI" />
 </p>
 
-数据与中间件
-
-<p>
+<div align="center"><b>数据与中间件</b></div>
+<p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat" alt="MySQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat" alt="Redis" />
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white&style=flat" alt="Apache Kafka" />
   <img src="https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=flat" alt="Elasticsearch" />
 </p>
 
-工程与运维
-
-<p>
+<div align="center"><b>工程与运维</b></div>
+<p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat" alt="Linux" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat" alt="GitHub Actions" />
@@ -54,23 +54,32 @@
 **数据看板**
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="GitHub Stats" height="160" src="https://github-readme-stats.vercel.app/api?username=Penryn&show_icons=true&include_all_commits=true&hide_rank=false&hide_border=true&theme=transparent" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Top Languages" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Penryn&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
-  </a>
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img alt="GitHub Stats" height="160" src="https://github-readme-stats.vercel.app/api?username=Penryn&show_icons=true&include_all_commits=true&hide_rank=false&hide_border=true&theme=transparent" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img alt="Top Languages" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Penryn&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
 **提交记录**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Penryn/Penryn/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Penryn/Penryn/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Penryn/Penryn/output/github-contribution-grid-snake.svg">
-  
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Penryn/Penryn/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Penryn/Penryn/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Penryn/Penryn/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 
 **博客文章**
@@ -85,10 +94,5 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-<div align="center">
-
-  主页访问量
-
-  <br/>
-  <img alt="Visitor Count" src="https://komarev.com/ghpvc/?username=Penryn&label=Visitor%20Count&color=0e75b6&style=flat" />
-</div>
+<!-- footer spacing -->
+<br/>
