@@ -10,9 +10,6 @@
   <a href="https://blog.phlin.cn">博客</a> ·
   <a href="https://github.com/Penryn">GitHub</a>
 
-  <br/>
-  <img alt="访客数" src="https://komarev.com/ghpvc/?username=Penryn&label=%E8%AE%BF%E5%AE%A2%E6%95%B0&color=0e75b6&style=flat" />
-
 </div>
 
 
