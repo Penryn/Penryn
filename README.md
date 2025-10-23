@@ -66,7 +66,6 @@
   主页访问量
 
   <br/>
-  <img alt="Visitor Count" src="https://profile-counter.glitch.me/Penryn/count.svg" />
-
+  <img alt="Visitor Count" src="https://komarev.com/ghpvc/?username=Penryn&label=Visitor%20Count&color=0e75b6&style=flat" />
 </div>
 
