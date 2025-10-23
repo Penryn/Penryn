@@ -12,7 +12,7 @@
 
   <br/>
   <a href="https://github.com/Penryn">
-    <img alt="访客数" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPenryn&title=%E8%AE%BF%E5%AE%A2%E6%95%B0&icon=github.svg&icon_color=%23FFFFFF&count_bg=%230e75b6&title_bg=%23555555&edge_flat=true" />
+    <img alt="访客数" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPenryn&title=%E8%AE%BF%E5%AE%A2%E6%95%B0&icon=github&icon_color=%23FFFFFF&count_bg=%230e75b6&title_bg=%23555555&edge_flat=true" />
   </a>
 
 </div>
