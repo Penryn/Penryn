@@ -6,7 +6,7 @@
 
 [![Blog](https://img.shields.io/badge/Blog-blog.phlin.cn-blue?style=flat-square&logo=hexo)](https://blog.phlin.cn)
 [![GitHub](https://img.shields.io/badge/GitHub-Penryn-181717?style=flat-square&logo=github)](https://github.com/Penryn)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:your-email@example.com)
+<!-- [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:your-email@example.com) -->
 
 <img alt="typing intro" src="https://readme-typing-svg.demolab.com?duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Engineer+%7C+Go+%2B+Python;Distributed+Systems+%26+Database+Optimization;LLM+Applications+%26+AI+Agent+Engineering" />
 
@@ -151,7 +151,7 @@
 
 [![Blog](https://img.shields.io/badge/💡_Blog-blog.phlin.cn-blue?style=for-the-badge)](https://blog.phlin.cn)
 [![GitHub](https://img.shields.io/badge/🐱_GitHub-@Penryn-181717?style=for-the-badge)](https://github.com/Penryn)
-[![Email](https://img.shields.io/badge/📧_Email-Contact_Me-red?style=for-the-badge)](mailto:your-email@example.com)
+<!-- [![Email](https://img.shields.io/badge/📧_Email-Contact_Me-red?style=for-the-badge)](mailto:your-email@example.com) -->
 
 **Open to opportunities | 欢迎技术交流与合作**
 
