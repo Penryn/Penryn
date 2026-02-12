@@ -48,8 +48,8 @@
 **数据统计**
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Penryn&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Penryn&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Penryn&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Penryn&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Top Languages" />
 </div>
 
 <div align="center">
