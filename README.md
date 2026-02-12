@@ -83,11 +83,11 @@
 
 📕 Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [Go 1.14 ~ Go 1.26 版本演进复盘](https://blog.phlin.cn/2026/02/12/go-versions-260212/)
 - [谐云后端面经](https://blog.phlin.cn/2025/12/10/xieyun-interview-1/)
 - [2024-2025个人小结](https://blog.phlin.cn/2025/10/30/2024-2025/)
 - [炎魂后端二面面经](https://blog.phlin.cn/2025/04/17/yanhun-interview-2/)
 - [炎魂后端一面面经](https://blog.phlin.cn/2025/04/15/yanhun-interview-1/)
-- [eino学习小记&lpar;二&rpar;](https://blog.phlin.cn/2025/03/22/eino-llm-2/)
 <!-- BLOG-POST-LIST:END -->
 
 
