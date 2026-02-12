@@ -117,8 +117,8 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Penryn&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&bg_color=00000000" alt="Penryn's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Penryn&layout=compact&langs_count=8&hide_border=true&theme=transparent&bg_color=00000000" alt="Most Used Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Penryn&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="Penryn's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Penryn&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Most Used Languages" />
 </div>
 
 <div align="center">
