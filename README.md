@@ -1,26 +1,24 @@
 <div align="center">
 
-  ## 欢迎来到我的主页 👋
+## 你好，我是望舒 👋
 
-  你好，我是望舒，一个后端学习者
+后端开发者 / Go & Python / AI 应用探索
 
-  <img alt="typing intro" src="https://readme-typing-svg.demolab.com?duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=420&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5;Go+%2F+Python+%2F+MySQL+%2F+LLM+%E5%BA%94%E7%94%A8" />
-
-  <br/>
-  <a href="https://blog.phlin.cn">博客</a> ·
-  <a href="https://github.com/Penryn">GitHub</a>
+<img alt="typing intro" src="https://readme-typing-svg.demolab.com?duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=420&lines=%E5%90%8E%E7%AB%AF%E5%B7%A5%E7%A8%8B;Go+%2F+Python+%2F+MySQL;LLM+%E5%BA%94%E7%94%A8+%2F+AI+Agent" />
 
 </div>
 
+---
 
 **关于我**
 
-- 专注后端工程：Go、Python、分布式系统、数据库与性能优化
-- 对 LLM 应用、Agent 工程化与 AIGC 生产力有持续兴趣
-- 热爱写作与分享，沉淀实践经验与踩坑记录
+专注后端工程与 AI 应用开发，擅长 Go、Python、分布式系统与数据库优化。持续探索 LLM 应用、Agent 工程化，热爱通过技术博客分享实践经验。
 
+📝 博客：[blog.phlin.cn](https://blog.phlin.cn)
 
-**主要技术栈**
+---
+
+**技术栈**
 
 <div align="center"><b>语言与框架</b></div>
 <p align="center">
@@ -34,7 +32,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat" alt="MySQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat" alt="Redis" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white&style=flat" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white&style=flat" alt="Kafka" />
   <img src="https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=flat" alt="Elasticsearch" />
 </p>
 
@@ -43,32 +41,16 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat" alt="Linux" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=flat" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=flat" alt="Grafana" />
 </p>
 
+---
 
-**数据看板**
+**数据统计**
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img alt="GitHub Stats" height="160" src="https://github-readme-stats.vercel.app/api?username=Penryn&show_icons=true&include_all_commits=true&hide_rank=false&hide_border=true&theme=transparent" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img alt="Top Languages" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Penryn&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Penryn&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Penryn&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Top Languages" />
 </div>
-
-
-**提交记录**
 
 <div align="center">
   <picture>
@@ -78,10 +60,10 @@
   </picture>
 </div>
 
+---
 
 **博客文章**
 
-📕 Latest Posts
 <!-- BLOG-POST-LIST:START -->
 - [Go 1.14 ~ Go 1.26 版本演进复盘](https://blog.phlin.cn/2026/02/12/go-versions-260212/)
 - [我对秒杀防超卖的四层方案推演（单体 / MySQL / Redis 预扣 / MQ 异步）](https://blog.phlin.cn/2026/01/20/seckill-oversell-prevention/)
@@ -89,6 +71,8 @@
 - [2024-2025个人小结](https://blog.phlin.cn/2025/10/30/2024-2025/)
 - [炎魂后端二面面经](https://blog.phlin.cn/2025/04/17/yanhun-interview-2/)
 <!-- BLOG-POST-LIST:END -->
+
+👉 [更多文章](https://blog.phlin.cn)
 
 
 <!-- footer spacing -->
