@@ -65,11 +65,11 @@
 **博客文章**
 
 <!-- BLOG-POST-LIST:START -->
+- [Go 1.14 ~ Go 1.26 版本演进复盘](https://blog.phlin.cn/2026/02/12/go-versions-260212/)
 - [我对秒杀防超卖的四层方案推演（单体 / MySQL / Redis 预扣 / MQ 异步）](https://blog.phlin.cn/2026/01/20/seckill-oversell-prevention/)
 - [谐云后端面经](https://blog.phlin.cn/2025/12/10/xieyun-interview-1/)
 - [2024-2025个人小结](https://blog.phlin.cn/2025/10/30/2024-2025/)
 - [炎魂后端二面面经](https://blog.phlin.cn/2025/04/17/yanhun-interview-2/)
-- [炎魂后端一面面经](https://blog.phlin.cn/2025/04/15/yanhun-interview-1/)
 <!-- BLOG-POST-LIST:END -->
 
 👉 [更多文章](https://blog.phlin.cn)
