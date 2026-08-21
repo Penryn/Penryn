@@ -66,7 +66,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [AI Agent 研发工作流的设计与实现](https://blog.phlin.cn/2026/08/09/ai-agent-workflow/)
-- [Go 1.14 ~ Go 1.26 版本演进复盘](https://blog.phlin.cn/2026/02/12/go-versions-260212/)
+- [Go 1.14 到 Go 1.26：版本特性归纳与学习笔记](https://blog.phlin.cn/2026/02/12/go-versions-260212/)
 - [秒杀系统怎么防超卖：从一把锁到 Redis 和 MQ](https://blog.phlin.cn/2026/01/20/seckill-oversell-prevention/)
 - [谐云后端面经](https://blog.phlin.cn/2025/12/10/xieyun-interview-1/)
 - [2024-2025个人小结](https://blog.phlin.cn/2025/10/30/2024-2025/)
